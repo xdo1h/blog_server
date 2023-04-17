@@ -27,3 +27,4 @@ nbdist/
 .nb-gradle/
 /me/
 /blog/
+/src/test/
