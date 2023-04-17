@@ -11,6 +11,8 @@ target/
 
 ### IntelliJ IDEA ###
 .idea
+.mvn
+blog
 src/main/resources/application.properties
 *.iws
 *.iml
