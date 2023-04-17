@@ -28,4 +28,4 @@ nbdist/
 /me/
 /blog/
 /src/test/
-/src/main/java/com/xiaoh/config/WebMvcConfig1.java
+/src/main/java/com/xiaoh/config/WebMvcConfig.java
